@@ -1,1 +1,1 @@
-# openPLC project
+# openPLC project implemented with arduino
