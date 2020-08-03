@@ -1,6 +1,6 @@
 ## This is an openPLC project implemented with arduino
 
-### 1. Ardunio is configured to connect physical device with openPLC(Raspi)
+### 1. Ardunio is configured to connect physical device to openPLC(Raspi)
 
 ### 2. openPLC software is installed in the Raspi
 
